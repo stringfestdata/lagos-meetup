@@ -8,5 +8,5 @@
 
 ## Want more? [Check out my book, _Advancing into Analytics: From Excel to Python and R_ (O'Reilly)](http://georgejmount.com/book/)
 
-![Meetup cover image](lagos-meetup.png)
+![Meetup cover image](images/lagos-meetup.png)
 
