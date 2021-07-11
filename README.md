@@ -1,6 +1,5 @@
 # _Advancing into Analytics_ Presentation to the Microsoft Excel and Data Analysis Learning Community (Lagos)
 
-## Repo under construction; proceed with caution
 
 **Run in RStudio:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stringfestdata/lagos-meetup/HEAD?urlpath=rstudio)
 
